@@ -5,6 +5,6 @@ Dracula's theme CSS colors palette
 Preview: https://coelho-faminto.github.io/dracula-css.html
 
 Usage:
-  mkdir dracula-project
+  ```mkdir dracula-project
   cd dracula-project
-  git clone https://github.com/coelho-faminto/dracula-css.git .
+  git clone https://github.com/coelho-faminto/dracula-css.git``` .
