@@ -6,8 +6,8 @@
 
 @font-face {
     font-family: "Abril Text";
-    src: url(./resources/fonts/AbrilText-Bold.woff2) format("woff2"),
-        url(./resources/fonts/AbrilText-Bold.woff) format("woff");
+    src: url(./../fonts/AbrilText-Bold.woff2) format("woff2"),
+        url(./../fonts/AbrilText-Bold.woff) format("woff");
     font-weight: 700;
     font-style: normal;
     font-display: swap;
